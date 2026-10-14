@@ -1,0 +1,49 @@
+Power BI Visualization
+
+Introduction
+
+Power BI is a business analytics service developed by Microsoft. It helps people connect to data, clean it, build models and present the results as interactive reports. Microsoft released Power BI to the public on 24 July 2015, and since then millions of analysts, students and managers have been using it every day. The main strength of Power BI is visualization. A well designed visual can show a pattern in seconds, while the same pattern may stay hidden inside a table of thousands of rows. Satya Nadella, the CEO of Microsoft, has often said that every organization should become data driven, and Power BI is one of the tools that supports this idea.
+
+Data visualization is the practice of turning numbers into pictures. Humans are very good at noticing shapes, colors and positions, so charts and maps make data easier to understand, remember and discuss. In Power BI, visualization is not limited to static pictures. Users can click on a bar, filter a page, drill down into details and watch every other visual on the report change at once. This interactive behavior makes Power BI different from a simple chart in a presentation.
+
+Main Components of Power BI
+
+Power BI has three main parts. Power BI Desktop is a free application for Windows that is used to build reports. Analysts import data, create relationships between tables, write formulas and design the visuals on the report canvas. The Power BI Service is the online part, available at https://powerbi.microsoft.com, where reports are published, shared and refreshed on a schedule. Power BI Mobile allows people to open dashboards on a phone or a tablet while they are traveling. Many companies in India, the United States and Europe use all three parts together.
+
+Behind the visuals there are other technologies. Power Query is used to clean and transform data before it is loaded. The data model stores the tables and the relationships between them. DAX, which stands for Data Analysis Expressions, is the formula language used to create measures and calculated columns. A person who is learning Power BI usually studies these four steps in order: getting data, transforming data, modeling data and visualizing data.
+
+Common Types of Visuals
+
+Power BI offers many built-in visuals, and choosing the right one is an important skill. A bar chart is the best choice when the goal is to compare categories, such as sales in different cities. A column chart does the same job with vertical bars. A line chart shows how a value changes over time, for example monthly revenue during the last two years. A pie chart shows how a whole is divided into parts, but it should be used only when there are a few categories, because too many slices become difficult to read. A donut chart is a similar visual with a hole in the center.
+
+A card displays a single important number, such as total sales or the number of customers. A table and a matrix show detailed values and subtotals. A scatter plot shows the relationship between two numeric fields, and a map displays values by country, state or city. A gauge shows progress toward a target, and a treemap uses rectangles of different sizes to show the share of each category. Slicers are special visuals that allow the user to filter the whole page by choosing a date, a region or a product. When the analyst combines several visuals on one page, the result is called a dashboard.
+
+Principles of Good Visualization
+
+A beautiful report is not always a useful report. Good visualization follows a few simple principles. First, every visual should answer one clear question. If a chart tries to answer five questions, the reader will understand none of them. Second, the report should use colors carefully. A consistent palette helps the reader, while too many bright colors create confusion. Many designers use one color for normal values and a strong color, such as red, only for values that need attention. Third, the report should be easy to read, with clear titles, readable labels and enough white space between the visuals.
+
+Another principle is to place the most important information in the top left corner, because most readers start looking there. Analysts should also avoid cluttered pages. A dashboard with twenty visuals is tiring to read, and a dashboard with six carefully chosen visuals is often far more effective. Finally, the person who builds the report should always think about the audience. A sales manager may want a quick summary of targets, while a data analyst may want to explore the details behind every number.
+
+Interactivity and Advanced Features
+
+One of the most loved features of Power BI is cross filtering. When a user selects the bar for a particular region, the other visuals on the page automatically highlight the data of that region. Drill down allows the reader to move from years to quarters, then to months and finally to single days. Tooltips show extra details when the mouse moves over a visual, and bookmarks save a particular view of the report so that it can be opened again with a single click.
+
+Power BI also includes features that use artificial intelligence. The Q and A visual lets a user type a question in plain English, and the system creates a chart as the answer. Key influencers and decomposition tree visuals help to explain why a number increased or decreased. Forecasting can extend a line chart into the future, and anomaly detection can find unusual spikes in the data. Users who need something special can also import custom visuals from the marketplace, which was created by Microsoft and the Power BI community.
+
+Connecting to Data
+
+Power BI can connect to hundreds of data sources. Analysts often start with Excel files and CSV files because they are simple to use. Companies also connect to SQL Server, Azure services, SharePoint, Google Analytics, Salesforce and many other platforms. Some reports use import mode, where a copy of the data is stored inside the report. Other reports use DirectQuery, where the visuals read the latest data directly from the source. After the report is published, the Power BI Service can refresh the data automatically every day, so that managers always see current numbers.
+
+Power BI in Education and Business
+
+Power BI is used in many fields. A retail company in Delhi can build a sales report that compares stores, products and seasons. A hospital in Mumbai can monitor the waiting time of patients. A bank in London can follow the risk of loans, and a university in Boston can study the performance of students. In one survey of analytics teams, about 40% of the participants said that they used Power BI as their main reporting tool, and many of them said that the learning curve was easier than they expected. For students, Power BI is a practical skill because it combines statistics, design and storytelling.
+
+Competitors and Alternatives
+
+Power BI is not the only tool in this field. Tableau, which was created in Seattle and later became a part of Salesforce, is known for its flexible visual exploration. Qlik is famous for its associative engine, and Google offers Looker Studio for free web based reports. Each tool has strengths, and the best choice depends on the budget, the existing technology of the company and the skills of the team. Power BI is often preferred by organizations that already use Excel, Teams and Azure, because the integration between these products is very smooth.
+
+Best Practices and Conclusion
+
+Experienced analysts follow a few best practices. They clean the data before they build any visual. They name the tables and columns clearly. They test the report with real users and collect feedback. They also keep the performance in mind, because a report that takes one minute to load will not be used. Documentation is also important, so that another person can understand the model after the original author has left the project.
+
+In conclusion, Power BI visualization is the art of explaining data with clear, honest and interactive visuals. A learner who understands the different charts, follows the principles of good design and practices regularly can create reports that help teams to make better decisions. As the amount of data in the world keeps growing, the ability to visualize it will remain one of the most valuable skills for analysts, managers and students. For questions about this document, readers can write to learn@example.com.
